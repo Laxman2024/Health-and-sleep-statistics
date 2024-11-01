@@ -79,17 +79,3 @@ Build models for sleep quality prediction using Scikit-learn
 5.**Output**:
 Insights and recommendations based on analysis and model results, visualized in graphs and charts.
 
-## Timeline
-
-**Week 1**: Data Collection & Preprocessing
-Milestone: Clean and prepare the dataset for analysis.
-
-**Week 2**: Data Exploration & Visualization
-Milestone: Perform descriptive statistics and create visualizations for key metrics.
-**Week 3**: Correlation Analysis & Modeling
-Milestone: Conduct correlation analysis and build initial machine learning models for sleep quality prediction.
-
-**Week 4**: Model Evaluation & Optimization
-Milestone: Fine-tune models, evaluate performance, and refine predictions.
-
-**Week 5**: Final Report & Presentation
