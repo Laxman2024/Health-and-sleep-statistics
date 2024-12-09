@@ -41,6 +41,7 @@ To get started with this project, follow these steps:
 
      jupyter notebook
  5. Run the analysis.ipynb notebook to execute the data analysis and visualize the results.
+ 6. Add new dataset for analysics 
 
    
 
